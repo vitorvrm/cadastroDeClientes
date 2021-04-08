@@ -1,0 +1,3 @@
+## Sistema para cadastro de clientes
+
+sistema criado em Angular ainda incompleto. O sistema está sendo desenvolvido para rodar em um petshop. 

@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta Bic",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20",
+      "price": 5000.89
+    },
+    {
+      "name": "Bacia",
+      "price": "12.99",
+      "id": 4
+    },
+    {
+      "name": "Vitor Ribeiro de Moraes",
+      "endereco": "Rua Quarenta e Dois (4ª Etapa)",
+      "complemento": "Terminal Rio doce",
+      "telefone": "81998269214",
+      "id": 5
+    },
+    {
+      "name": "Brena Monteiro",
+      "endereco": "rua trinta e tres",
+      "complemento": "alameda",
+      "telefone": "81 99827-9271",
+      "id": 6
+    },
+    {
+      "name": "Alcides",
+      "endereco": "rua ianidan",
+      "complemento": "iois",
+      "telefone": "090dw",
+      "id": 7
+    }
+  ]
+}
